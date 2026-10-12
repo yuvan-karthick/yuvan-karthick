@@ -6,6 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&height=50&lines=Teaching+machines+to+think...;Trying+to+understand+neural+networks+and+my+life.;Making+AI+work+while+my+brain+is+buffering.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yuvan--karthick-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/yuvan-karthick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-karthick-84948624b/)
 [![Profile Views](https://komarev.com/ghpvc/?username=yuvan-karthick&style=for-the-badge&color=064E3B&label=PROFILE+VIEWS)](https://github.com/yuvan-karthick)
 
 </div>
@@ -17,7 +18,7 @@
 ```python
 class Yuvan:
     def __init__(self):
-        self.role = "AI/ML Engineer in the making"
+        self.role = "AI/ML Engineer"
         self.languages = ["Python"]
         self.interests = [
             "Machine Learning",
@@ -32,7 +33,7 @@ class Yuvan:
 ```
 
 - 🎓 B.Tech student specializing in AI & ML
-- 🧠 Interested in turning complex ideas into practical AI applications
+- 🧠 Turning ideas into practical AI applications
 - 🔬 Building projects across healthcare AI, cybersecurity and NLP
 - 🌱 Always learning something new (and occasionally breaking something old)
 
@@ -97,13 +98,14 @@ Exploring financial sentiment classification using transformer-based deep learni
 
 ### Languages & Core Tools
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,git,github,vscode,linux&theme=dark" alt="Technology stack"/>
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,numpy,pandas,git,github,vscode&theme=dark" alt="Technology stack"/>
 
 ### AI / ML & Development
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-0D1117?style=flat-square&logo=scikitlearn&logoColor=00FF9C)
 ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-0D1117?style=flat-square&logo=pytorch&logoColor=EE4C2C)
 ![NLP](https://img.shields.io/badge/NLP-0D1117?style=flat-square&logo=huggingface&logoColor=FFD21E)
+![CUDA](https://img.shields.io/badge/CUDA-GPU%20Computing-0D1117?style=flat-square&logo=nvidia&logoColor=76B900)
 ![Streamlit](https://img.shields.io/badge/Streamlit-0D1117?style=flat-square&logo=streamlit&logoColor=FF4B4B)
 ![SQL](https://img.shields.io/badge/SQL-0D1117?style=flat-square&logo=sqlite&logoColor=00FF9C)
 
@@ -120,7 +122,7 @@ Exploring financial sentiment classification using transformer-based deep learni
 
 <br/>
 
-<img width="75%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvan-karthick&bg_color=0D1117&color=C9D1D9&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvan-karthick&bg_color=0D1117&color=C9D1D9&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
 
 </div>
 
@@ -130,18 +132,15 @@ Exploring financial sentiment classification using transformer-based deep learni
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-Follow%20my%20work-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/yuvan-karthick)
+Got an interesting AI project? Want to talk ML, deep learning, or cool tech?
 
-💬 Interested in AI, ML, deep learning or building cool things? Let's connect.
-
-</div>
-
-<div align="center">
+[![GitHub](https://img.shields.io/badge/GitHub-Explore%20my%20work-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/yuvan-karthick)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-karthick-84948624b/)
 
 ### `while(alive) { learn(); build(); repeat(); }`
 
 **Still training models. Still training myself.** 💚
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:064E3B,100:0D1117&height=100&section=footer"/>
-
 </div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00FF9C,50:064E3B,100:0D1117&height=100&section=footer"/>
