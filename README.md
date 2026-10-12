@@ -3,11 +3,10 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&height=50&lines=Teaching+machines+to+think...;Trying+to+understand+neural+networks+and+my+life.;Making+AI+work+while+my+brain+is+buffering.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=2800&pause=900&color=00FF9C&center=true&vCenter=true&width=650&height=50&lines=Teaching+machines+to+think..;Debugging+code+and+life+simultaneously.;Debugging+code+and+life+simultaneously.)](https://git.io/typing-svg)
 
 [![GitHub](https://img.shields.io/badge/GitHub-yuvan--karthick-0D1117?style=for-the-badge&logo=github&logoColor=00FF9C)](https://github.com/yuvan-karthick)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's%20connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yuvan-karthick-84948624b/)
-[![Profile Views](https://komarev.com/ghpvc/?username=yuvan-karthick&style=for-the-badge&color=064E3B&label=PROFILE+VIEWS)](https://github.com/yuvan-karthick)
 
 </div>
 
@@ -113,16 +112,11 @@ Exploring financial sentiment classification using transformer-based deep learni
 
 ---
 
-## `git stats`
+## `languages I apparently speak`
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=yuvan-karthick&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00FF9C&icon_color=00FF9C&text_color=C9D1D9&ring_color=00FF9C" alt="GitHub statistics"/>
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvan-karthick&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Most used languages"/>
-
-<br/>
-
-<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=yuvan-karthick&bg_color=0D1117&color=C9D1D9&line=00FF9C&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity"/>
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvan-karthick&layout=compact&hide_border=true&bg_color=0D1117&title_color=00FF9C&text_color=C9D1D9" alt="Most used languages"/>
 
 </div>
 
